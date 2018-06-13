@@ -1,3 +1,3 @@
-## ES6, 7, 8 e contando
+## Dockerizing your first app
 
-Palestra realizada para o Meetup [NodeBR #37 - Feel the future!](https://www.meetup.com/nodebr/events/249191326/)
+Palestra realizada para o Meetup [Nerdzão #56 - Shipping your containers](https://www.meetup.com/Nerdzao/events/251461069/)
